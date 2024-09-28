@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tracy Njoroge</h1>
-<h3 align="center">A aspiring frontend developer.</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
+<h3 align="center">An aspiring frontend developer.</h3>
+<img align="right" alt="coding" width="400" height="450" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=26tracynjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="26tracynjoroge" /> </p>
 
