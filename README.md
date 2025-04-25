@@ -4,10 +4,7 @@
 
 🌷 I’m currently advancing my front-end skills and also exploring Cloud Tech☁️<br />
 🔭 Open to collaborate on web applications with clean UI and meaningful user experiences<br />
-
 ⚡ Fun fact: I love being organised.
-
-#
 
 <details>
   <summary><h4>👩🏾‍💻My Coding Journey</h4></summary>
