@@ -7,8 +7,8 @@
 ⚡ Fun fact: I can spend hours tweaking a UI pixel by pixel.
 
 <details>
-  <summary><h4>👩🏾‍💻My Coding Journey</h4></summary>
-    My tech journey began during a digital marketing course, where I got curious about what lies beyond drag-and-drop website builders. That curiosity led me to 
+ <summary><h3>👩🏾‍💻My Coding Journey</h3></summary>
+     My tech journey began during a digital marketing course, where I got curious about what lies beyond drag-and-drop website builders. That curiosity led me to 
     discover HTML and CSS, and I was immediately hooked. The creativity, logic, and problem-solving involved in coding were the perfect blend for my analytical 
     mindset.
     Since then, I've been building a solid foundation in web development, learning JavaScript, and now diving into React to create dynamic, responsive, and accessible 
@@ -16,10 +16,10 @@
     developers, and I'm excited about how they can enhance application deployment and scalability.
     What drives me is the continuous learning process that comes with development work. Every new technology mastered or problem solved reinforces my love for this 
     field, and I'm looking forward to growing further as I contribute to projects that make a positive impact.
-</details>
 
+---
 
-## My Tech Stack
+###  My Tech Stack
 
 <img align="left" alt="JavaScript" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,14 +30,14 @@
 <img align="left" alt="Git" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />    
 <img align="left" alt="Vercel" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-
-<br />
 <br />
 
-  
-## GitHub Stats
+#
+
+### GitHub Stats
+
 ![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=26TracyNjoroge&show_icons=true&theme=radical)
 
+### GitHub Stats
 
-## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=26TracyNjoroge&theme=radical)](https://git.io/streak-stats)
