@@ -18,7 +18,6 @@
     field, and I'm looking forward to growing further as I contribute to projects that make a positive impact.
 </details>
 
-#
 
 ## My Tech Stack
 
