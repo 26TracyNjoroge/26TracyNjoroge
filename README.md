@@ -1,4 +1,4 @@
-# Hi, I'm Tracy Njoroge!
+# 👋🏾Hi, I'm Tracy Njoroge!
 
 **`Front-end Developer`**
 
@@ -8,7 +8,7 @@
 
 ---
 
-###  My Tech Stack
+###  💻My Tech Stack
 
 <img align="left" alt="JavaScript" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
