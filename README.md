@@ -4,7 +4,7 @@
 
 🌷 I’m currently advancing my front-end skills and also exploring Cloud Tech☁️.<br />
 🔭 Open to collaborate on web applications with clean UI and meaningful user experiences.<br />
-⚡ Fun fact: I can spend hours tweaking a UI pixel by pixel.
+⚡ Fun fact: Coffee doesn't have any effect on me.
 
 ---
 
