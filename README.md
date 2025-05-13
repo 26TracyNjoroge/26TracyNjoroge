@@ -2,8 +2,8 @@
 
 **`Front-end Developer`**
 
-🌷 I’m currently advancing my front-end development skills and exploring Cloud Technologies (AWS) through the ALX Program, equipping myself with versatile tech expertise.<br />
-🚀 My career goal is to work on diverse projects that challenge my problem-solving abilities while making a positive impact through intuitive digital solutions.<br /><br />
+* 🌷 I’m currently advancing my front-end development skills and exploring Cloud Technologies (AWS) through the ALX Program, equipping myself with versatile tech expertise.<br />
+* 🚀 My career goal is to work on diverse projects that challenge my problem-solving abilities while making a positive impact through intuitive digital solutions.<br /><br />
 
 ⚡ Fun fact: Coffee doesn't have any effect on me.
 
