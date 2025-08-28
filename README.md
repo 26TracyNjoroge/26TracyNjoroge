@@ -4,7 +4,7 @@
 
 ###  About Me
 
-🌷 I’m currently advancing my front-end development skills and exploring Cloud Technologies (AWS) through the ALX Program, equipping myself with versatile tech expertise.<br /><br />
+🌷 I’m currently advancing my front-end development skills and equipping myself with versatile tech expertise.<br /><br />
 🚀 My career goal is to work on diverse projects that challenge my problem-solving abilities while making a positive impact through intuitive digital solutions.<br /><br />
 
 ---
