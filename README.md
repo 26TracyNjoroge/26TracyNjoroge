@@ -2,6 +2,8 @@
 
 ### **` Front-end Developer `**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=26TracyNjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="26TracyNjoroge" /> </p>
+
 ###  About Me
 
 🌷 I’m currently advancing my front-end development skills and equipping myself with versatile tech expertise.<br /><br />
