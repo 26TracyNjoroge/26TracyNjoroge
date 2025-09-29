@@ -6,8 +6,8 @@
 
 ###  About Me
 
-🌷 I’m currently advancing my front-end development skills and equipping myself with versatile tech expertise.<br /><br />
-🚀 My career goal is to work on diverse projects that challenge my problem-solving abilities while making a positive impact through intuitive digital solutions.<br /><br />
+🌷 I’m a Frontend Developer, actively practising and strengthening my expertise in creating intuitive, responsive web applications.<br /><br />
+🚀 I aspire to work on projects that push my problem-solving skills and make a meaningful impact through design-driven solutions.<br /><br />
 
 ---
 
