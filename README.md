@@ -2,12 +2,9 @@
 
 ### **` Front-end Developer `**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=26TracyNjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="26TracyNjoroge" /> </p>
-
 ###  About Me
 
-🌷 I’m a Frontend Developer, actively practising and strengthening my expertise in creating intuitive, responsive web applications.<br /><br />
-🚀 I aspire to work on projects that push my problem-solving skills and make a meaningful impact through design-driven solutions.<br /><br />
+I’m a Frontend Developer, actively practising and strengthening my expertise in creating intuitive, responsive web applications. I aspire to work on projects that push my problem-solving skills and make a meaningful impact through design-driven solutions.<br /><br />
 
 ---
 
