@@ -1,5 +1,7 @@
 # 👋🏾Hi, I'm Tracy Njoroge!
 
+![Profile views](https://komarev.com/ghpvc/?username=26TracyNjoroge&label=Profile%20views&color=blueviolet&style=flat)
+
 ### **` Front-end Developer `**
 
 ###  About Me
