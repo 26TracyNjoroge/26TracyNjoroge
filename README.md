@@ -4,13 +4,11 @@
 
 ### **` Front-end Developer `**
 
-###  About Me
-
 I’m a Frontend Developer, actively practising and strengthening my expertise in creating intuitive, responsive web applications. I aspire to work on projects that push my problem-solving skills and make a meaningful impact through design-driven solutions.<br /><br />
 
 ---
 
-###  💻My Tech Stack
+###  My Tech Stack
 
 <img align="left" alt="JavaScript" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="28" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -27,17 +25,17 @@ I’m a Frontend Developer, actively practising and strengthening my expertise i
 
 ### GitHub Stats (Languages)
 
-![Tracy Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=26TracyNjoroge&layout=compact&theme=radical)
+![Tracy Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyNjoroge&layout=compact&theme=radical)
 
 
 ### GitHub Stats (Profile)
 
-![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=26TracyNjoroge&show_icons=true&theme=radical)
+![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TracyNjoroge&show_icons=true&theme=radical)
 
 
 ### GitHub Streaks
 
-[![Tracy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=26TracyNjoroge&theme=radical)](https://git.io/streak-stats)
+[![Tracy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TracyNjoroge&theme=radical)](https://git.io/streak-stats)
 
 #
 
