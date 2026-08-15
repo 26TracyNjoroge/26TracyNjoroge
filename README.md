@@ -23,19 +23,13 @@ I’m a Frontend Developer, actively practising and strengthening my expertise i
 
 #
 
-### GitHub Stats (Languages)
+## 📊 GitHub Stats
 
-![Tracy Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyNjoroge&layout=compact&theme=radical)
+![Tracy's GitHub Stats](https://github-stats-extended.vercel.app/api?username=TracyNjoroge&show_icons=true&theme=radical)
 
+![Tracy's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=TracyNjoroge&layout=compact&theme=radical)
 
-### GitHub Stats (Profile)
-
-![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TracyNjoroge&show_icons=true&theme=radical)
-
-
-### GitHub Streaks
-
-[![Tracy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TracyNjoroge&theme=radical)](https://git.io/streak-stats)
+![Tracy's GitHub Streak](https://streak-stats.demolab.com?user=TracyNjoroge&theme=radical)
 
 #
 
